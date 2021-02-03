@@ -2,10 +2,7 @@
 
 *Expense tracking application built with React*
 
-Converted to React from this VanillaJS app: [expense-tracker](https://nikkipeel.github.com/expense-tracker) 
 
-Tutorial courtesy of Brad Traversy/[Traversy Media](https://www.traversymedia.com/):
-[Build an Expense Tracker](https://youtu.be/XuFDcZABiDQ) 
 
 :bookmark_tabs: Todos:
   - Add backend with Express and MongoDB for a full stack application
