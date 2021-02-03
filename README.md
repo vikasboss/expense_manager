@@ -4,10 +4,6 @@
 
 
 
-:bookmark_tabs: Todos:
-  - Add backend with Express and MongoDB for a full stack application
-  - Make addTransaction responsive, cannot use minus key on mobile device
-
 <img src="public/img/expense-tracker.png" width="100%" height="auto"/>
 <br />
 <h3>- Click to delete transactions -</h3>
