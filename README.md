@@ -1,6 +1,6 @@
 <h1>:moneybag: Expense Tracker </h1>
 
-*Expense tracking application built with React Hooks and ContextAPI*
+*Expense tracking application built with React*
 
 Converted to React from this VanillaJS app: [expense-tracker](https://nikkipeel.github.com/expense-tracker) 
 
